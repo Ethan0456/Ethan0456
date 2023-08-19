@@ -23,9 +23,6 @@ About Me:
 * Data Science and Machine Learning Enthusiast
 * Open Source Enthusiast
 
-## Stats
-![Ethan0456's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan0456&theme=chartreuse-dark&show_icons=true)
-
 ## Languages And Tools
 ![](https://img.shields.io/badge/-Kotlin-FF00DE?logo=kotlin&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Python-004DFF?logo=Python&logoColor=white&style=for-the-badge)
@@ -39,8 +36,8 @@ About Me:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan0456&theme=chartreuse-dark)
 
 ## Repos
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ethan0456&repo=ftpm3&theme=chartreuse-dark"/>](https://github.com/Ethan0456/ftmp3)
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ethan0456&repo=nsdshare&theme=chartreuse-dark"/>](https://github.com/Ethan0456/nsdshare)
+
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=ethan0456&repo=orgnice&theme=chartreuse-dark"/>](https://github.com/Ethan0456/orgnice)
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ethan0456&repo=emacs&theme=chartreuse-dark"/>](https://github.com/Ethan0456/emacs)
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ethan0456&repo=dotfiles&theme=chartreuse-dark"/>](https://github.com/Ethan0456/dotfiles)
