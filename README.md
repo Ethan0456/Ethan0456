@@ -7,7 +7,7 @@ I'm fascinated by Large Generative Models, especially in Agentic Systems and RAG
 ### 🔭 Current Focus
 I am currently working on autonomous agents and their uses in scientific discovery and industry.
 
-### 📚 Research
+### 📚 Authored Papers & Contributions
 - DiscoveryBench: Towards Data-Driven Discovery with Large Language Models: Submitted at NeurIPS'24 - [Link](https://arxiv.org/abs/2407.01725v1)
 - Data-driven Discovery with Large Generative Models: Accepted at ICML'24 - [Link](https://arxiv.org/abs/2402.13610)
 
