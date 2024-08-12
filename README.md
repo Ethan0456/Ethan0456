@@ -2,10 +2,10 @@
 I’m Abhijeetsingh Meena, Machine Learning Engineer at [OpenLocus](https://openlocus.ai/). I thrive on exploring cutting-edge technologies and making impactful contributions to the field of AI.
 
 ### 🚀 Passionate About
-I'm fascinated by Large Generative Models, especially in Agentic Systems and RAG.
+I’m deeply fascinated by Large Generative Models and their transformative potential in Agentic Systems and Retrieval-Augmented Generation (RAG). I’m particularly interested in how these technologies can be leveraged to drive innovation in scientific discovery and real-world applications.
 
 ### 🔭 Current Focus
-I am currently working on autonomous agents and their uses in scientific discovery and industry.
+I’m currently exploring the field of autonomous agents and their potential applications in scientific discovery and industrial settings. My focus is on developing solutions that leverage large generative models to enhance knowledge generation and problem-solving.
 
 ### 📚 Authored Papers & Contributions
 - DiscoveryBench: Towards Data-Driven Discovery with Large Language Models: Submitted at NeurIPS'24 - [Link](https://arxiv.org/abs/2407.01725v1)
