@@ -1,15 +1,15 @@
 # Hello There! 🌟
-I’m Abhijeetsingh Meena, Machine Learning Engineer at [OpenLocus](https://openlocus.ai/). I thrive on exploring cutting-edge technologies and making impactful contributions to the field of AI.
+I’m Abhijeetsingh Meena, a Machine Learning Engineer at [OpenLocus](https://openlocus.ai/). My work focuses on exploring new technologies and contributing to advancements in AI.
 
 ### 🚀 Passionate About
-I’m deeply fascinated by Large Generative Models and their transformative potential in Agentic Systems and Retrieval-Augmented Generation (RAG). I’m particularly interested in how these technologies can be leveraged to drive innovation in scientific discovery and real-world applications.
+My primary interests include Large Generative Models and their applications in Agentic Systems and Retrieval-Augmented Generation (RAG). I'm particularly interested in the potential of these technologies to advance scientific discovery and solve real-world problems.
 
 ### 🔭 Current Focus
-I’m currently exploring the field of autonomous agents and their potential applications in scientific discovery and industrial settings. My focus is on developing solutions that leverage large generative models to enhance knowledge generation and problem-solving.
+I'm currently researching autonomous agents and their applications in scientific discovery and industry. My work involves developing solutions that use large generative models to improve scientific discovery and problem-solving capabilities.
 
 ### 📚 Authored Papers & Contributions
 - DiscoveryBench: Towards Data-Driven Discovery with Large Language Models: Submitted at NeurIPS'24 - [Link](https://arxiv.org/abs/2407.01725v1)
 - Data-driven Discovery with Large Generative Models: Accepted at ICML'24 - [Link](https://arxiv.org/abs/2402.13610)
 
 ### 🌍 Connect With Me
-Feel free to reach out if you’re into agentic systems and want to collaborate, or just share interesting stories!
+If you're interested in agentic systems or would like to discuss potential collaborations, please feel free to reach out.
