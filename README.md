@@ -8,7 +8,7 @@ My primary interests include Large Generative Models and their applications in A
 I'm currently researching autonomous agents and their applications in scientific discovery and industry. My work involves developing solutions that use large generative models to improve scientific discovery and problem-solving capabilities.
 
 ### 📚 Authored Papers & Contributions
-- DiscoveryBench: Towards Data-Driven Discovery with Large Language Models: Submitted at NeurIPS'24 - [Link](https://arxiv.org/abs/2407.01725v1)
+- DiscoveryBench: Towards Data-Driven Discovery with Large Language Models - [Link](https://arxiv.org/abs/2407.01725v1)
 - Data-driven Discovery with Large Generative Models: Accepted at ICML'24 - [Link](https://arxiv.org/abs/2402.13610)
 
 ### 🌍 Connect With Me
